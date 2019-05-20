@@ -1,2 +1,5 @@
-# aleph
-Collaborative projects
+# Udacity Aleph
+Collaborative projects for nanodegree students. 
+
+
+## About Aleph
