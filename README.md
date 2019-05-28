@@ -1,5 +1,8 @@
 # Udacity Aleph [Work In Progress 🚧]
-Collaborative projects for nanodegree students. 
+Collaborative projects from the real world.
+
+### What is Udacity Aleph?
+Udacity Aleph is an initiative that lets you, our students, master techniques learnt in a nanodegree. We release tasks, ranging from private Kaggle competitions    
 
 
 ## About Aleph
