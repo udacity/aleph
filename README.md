@@ -6,7 +6,7 @@ Udacity Aleph is an initiative that lets you, our students, transfer key skills 
 
 
 
-
+![badge](res/shubham-badge-full.png)
 
 
 
