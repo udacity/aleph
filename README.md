@@ -8,6 +8,8 @@ Udacity Aleph is an initiative that let students, transfer key skills learned fr
 <img src=res/pandas_data_loading_200.png width=250/> <img src=res/sklearn-model-selection-300.png width=250/> <img src=res/small_data_insights_1000.png width=250/>
 
 The badges can be verified online and are tied to your email.
+
+<img src=res/farhan-badge-verified.png width=480/>
  
 ### Who can participate?
 Anyone who is currently enrolled in a Udacity nanodegree. Although the challenges may require skills from a particular nanodegree, there is no restriction based on which nanodegree you are enrrolled in.
