@@ -16,6 +16,8 @@ Udacity Aleph is an initiative that lets you, our students, transfer key skills 
   </div>
  
 </div>
+
+<img src=res/pandas_data_loading_200.png width=150/> <img src=res/sklearn-model-selection-300.png width=150/> <img src=res/small_data_insights_1000.png width=150/>
  
 <img src="res/shubham-badge-full.png" width=600>
 
