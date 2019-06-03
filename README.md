@@ -60,3 +60,4 @@ Body fat prediction from simple body measurements has immediate utility, for exa
   
 - Make submissions to Kaggle as a team until the submission deadline ends.
 - Submit your code and to Github along with a writeup / README documenting your approach to the Kaggle competition.
+
