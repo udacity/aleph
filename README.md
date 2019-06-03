@@ -1,4 +1,4 @@
-# Udacity Aleph [Work In Progress 🚧]
+# Udacity Aleph
 Collaborative projects from the real world.
 
 ### What is Udacity Aleph?
