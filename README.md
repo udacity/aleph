@@ -15,28 +15,22 @@ The badges can be verified online and are tied to your email.
 Anyone who is currently enrolled in a Udacity nanodegree. Although the challenges may require skills from a particular nanodegree, there is no restriction based on which nanodegree you are enrrolled in.
 
 ### How to participate
-Roughly you need to form a team, complete a sequence of tasks and then fill a form. The type and difficulty of the tasks will change from one challenge to the next. Find out more in the [List of Challenges](#List-of-Challenges) section. 
+You need to form a team, complete a sequence of tasks and then fill a form. The type and difficulty of the tasks will change from one challenge to the next. Find out more in the [List of Challenges](#List-of-Challenges) section. 
 
 ### Why are the challenges collaborative?
+We decided to make the challenges collaborative for the following reasons
+
+- Many challenges require significant work that can be divided among team members.
+- You get a taste of working in a distributed team.
+- Working in a group can be a very efficient learning process.
+- Team work has beings along challenges as well and we hope you learn to navigate them.
 
 ### What kind of challenges are in the offing?
+We are starting off with a Kaggle competition but the intention is to have much more diverese competitions involving problems from data gathering to building machine learning pipelines to deploying them on the web and building web and mobile applications. We promise that the projects will be so exiciting that you won't be able stop yourself from jumping in!    
 
 ### How much time does one get to submit a solution?
+The time will vary from challenge to challenge. Please find out more in the [List of Challenges](#List-of-Challenges) section.
 
-### Where can I find more about the challenges?
 
 ## List of Challenges
-
-
-
-1. Need for extra projects
-- Why collaboration?
-- Logistics
-  - Cadence
-  - Platforms
-  - Problem Pipeline
-  - Duration
-  - Publicity 
-  - Metrics
-  - Evaluation
 
