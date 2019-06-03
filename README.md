@@ -43,7 +43,7 @@ The body fat prediction challenge is a private Kaggle competition for Udacity st
 Body fat prediction from simple body measurements has immediate utility, for example, in health apps, to predict fitness levels. The main challenge is to build a reliable model from the tiny data in this dataset. If we had millions of rows of data, building a highly accurate, black box model would be almost trivial. However, to get every last ounce of performance from a machine learning model trained on small data, one has to carefully analyze and tune its performance.
 
 **How to Participate**
-1. Join the [Gitter room](https://gitter.im/Udacity-Aleph/bodyfat#) for this challenge.
+- Join the [Gitter room](https://gitter.im/Udacity-Aleph/bodyfat#) for this challenge.
 - Create an account on Kaggle, if you already do not have one.
 - Join [this](https://www.kaggle.com/t/4bd762ba517a4d8ca9c71d6ec0bf19cd) challenge on Kaggle. Please do not share the link outside Udacity community because it is a private competition.
 - Add your details to [this](https://docs.google.com/spreadsheets/d/1nm4srsFa1xHal8u4yOAlFk-VKU4I6LC8HZ9jZ_hckMc/edit?usp=sharing) Google sheet. 
