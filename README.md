@@ -23,7 +23,7 @@ We decided to make the challenges collaborative for the following reasons
 - Many challenges require significant work that can be divided among team members.
 - You get a taste of working in a distributed team.
 - Working in a group can be a very efficient learning process.
-- Team work has beings along challenges as well and we hope you learn to navigate them.
+- You learn to deal with the challenges that team work brings along.
 
 ### What kind of challenges are in the offing?
 We are starting off with a Kaggle competition but the intention is to have much more diverese competitions involving problems from data gathering to building machine learning pipelines to deploying them on the web and building web and mobile applications. We promise that the projects will be so exiciting that you won't be able stop yourself from jumping in!    
@@ -44,7 +44,17 @@ Body fat prediction from simple body measurements has immediate utility, for exa
 
 **How to Participate**
 - Join the [Gitter room](https://gitter.im/Udacity-Aleph/bodyfat#) for this challenge.
-- Create an account on Kaggle
-- Add your details to [this](https://docs.google.com/spreadsheets/d/1nm4srsFa1xHal8u4yOAlFk-VKU4I6LC8HZ9jZ_hckMc/edit?usp=sharing) Google sheet. You can either add your name to an exsisting team or create a new team. A team must have at least two members and at most four.If you enter as the first team member, you are the team's leader. If you are the leader select the number of members you want to be a part of the team (you can edit the number later). If you are not the leader, check that the team's member count is still lower than the limit set by team leader.
+- Create an account on Kaggle, if you already do not have one.
 - Join [this](https://www.kaggle.com/t/4bd762ba517a4d8ca9c71d6ec0bf19cd) challenge on Kaggle. Please do not share the link outside Udacity community because it is a private competition.
-4. Form a
+- Add your details to [this](https://docs.google.com/spreadsheets/d/1nm4srsFa1xHal8u4yOAlFk-VKU4I6LC8HZ9jZ_hckMc/edit?usp=sharing) Google sheet. 
+  - You can either add your name to an exsisting team or create a new team. 
+  - If you enter as the first team member, you are the team's leader.
+  - A team must have at least two members and at most four (the leader can edit the maximum number of members).
+  - If you are not the leader
+    - Only add yourself to a team if the team's member count is below the limit set by team leader.
+    - Select the number of members you want to allow in the team (this can be changed later).
+    - Pick a team name and add it to the Google sheet
+  
+
+4. If you are a team leader, [form a Kaggle team](https://www.kaggle.com/getting-started/44861) and make sure to add all team members to it.
+5. Make submissions to Kaggle as a team
