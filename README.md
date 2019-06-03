@@ -63,17 +63,19 @@ Body fat prediction from simple body measurements has immediate utility, for exa
 - Earn digital badges for a gamut of skills. Teams clinching the top 10 spots get additional rank badges!!
 
 **FAQs**
-1. **How many times can I submit a solution to Kaggle?**
+**How many times can I submit a solution to Kaggle?**
 
 Kaggle limits the number of submissions that can be made in a day. For this competition, we have capped the number of submissions at 4 per day.
 
-2. **How can I see my rank on Kaggle's leaderboard?**
+**How can I see my rank on Kaggle's leaderboard?**
 
 Kaggle competitions generally have two partitions of the test dataset. A public partition that is used to rank submission while the competitions while they are going on and a private partition that is used to decide the final leaderboard ranks after a coompetition has ended. In our case, because of a paucity of data, we do not provide a public partition. As a result, your submissions do not get ranked. Instead you have to rely on your own validation dataset to decide your best model. You can submit up to two models that you deem to be the best ones for final evaluation.
 
-3. **When does the competition start?**
+**When does the competition start?** 
+
 The competition starts on Jun 3, 12:00 PDT.
 
-4. **When does the competition end?**
+**When does the competition end?**
+
 The deadline is June 16.
 
