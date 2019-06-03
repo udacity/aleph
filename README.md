@@ -58,6 +58,13 @@ Body fat prediction from simple body measurements has immediate utility, for exa
     - Once your team reaches its member limit, send a direct message to [us](https://gitter.im/fa-ahmad) on Gitter with your  team's name. We will create a dedicated group for you and your team.
     - [form a Kaggle team](https://www.kaggle.com/getting-started/44861) and make sure to add all team members to it.
   
-- Make submissions to Kaggle as a team until the submission deadline ends.
-- Submit your code and to Github along with a writeup / README documenting your approach to the Kaggle competition.
+- Make submissions to Kaggle as a team until the submission deadline ends (The deadline will be visible on Kaggle).
+- Submit your code along with a writeup / README to Github documenting your approach to the Kaggle competition.
+- Earn digital badges for a gamut of skills. Teams clinching the top 10 spots get additional rank badges!!
+
+**FAQs**
+1. How many times can I submit a solution to Kaggle?
+2. How can I see my rank on Kaggle's leaderboard?
+3. When does the competition start?
+4. What is 
 
