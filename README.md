@@ -34,7 +34,7 @@ The time will vary from challenge to challenge. Please find out more in the [Lis
 
 ## List of Challenges
 
-1. ### Body Fat Prediction
+### Body Fat Prediction
 **About Body Fat Prediction**
 The body fat prediction challenge is a private Kaggle competition for Udacity students. 
 
@@ -43,7 +43,8 @@ The goal of the challenge is to be able to predict the percentage of body fat, g
 Body fat prediction from simple body measurements has immediate utility, for example, in health apps, to predict fitness levels. The main challenge is to build a reliable model from the tiny data in this dataset. If we had millions of rows of data, building a highly accurate, black box model would be almost trivial. However, to get every last ounce of performance from a machine learning model trained on small data, one has to carefully analyze and tune its performance.
 
 **How to Participate**
-1. Add your email to [this](https://docs.google.com/spreadsheets/d/1nm4srsFa1xHal8u4yOAlFk-VKU4I6LC8HZ9jZ_hckMc/edit?usp=sharing) Google sheet. You can either add your name to an exsisting team or create a new team. A team must have at least two members and at most four.
-2. Create an account on Kaggle
-3. Join [this](https://www.kaggle.com/t/4bd762ba517a4d8ca9c71d6ec0bf19cd) challenge on Kaggle. Please do not share the link outside Udacity community because it is a private competition.
-4. Create a team 
+- Join the [Gitter room](https://gitter.im/Udacity-Aleph/bodyfat#) for this challenge.
+- Create an account on Kaggle
+- Add your details to [this](https://docs.google.com/spreadsheets/d/1nm4srsFa1xHal8u4yOAlFk-VKU4I6LC8HZ9jZ_hckMc/edit?usp=sharing) Google sheet. You can either add your name to an exsisting team or create a new team. A team must have at least two members and at most four.If you enter as the first team member, you are the team's leader. If you are the leader select the number of members you want to be a part of the team (you can edit the number later). If you are not the leader, check that the team's member count is still lower than the limit set by team leader.
+- Join [this](https://www.kaggle.com/t/4bd762ba517a4d8ca9c71d6ec0bf19cd) challenge on Kaggle. Please do not share the link outside Udacity community because it is a private competition.
+4. Form a
