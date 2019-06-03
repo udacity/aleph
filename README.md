@@ -12,7 +12,7 @@ The badges can be verified online and are tied to your email.
 <img src=res/farhan-badge-verified.png width=480/>
  
 ### Who can participate?
-Anyone who is currently enrolled in a Udacity nanodegree. Although the challenges may require skills from a particular nanodegree, there is no restriction based on which nanodegree you are enrrolled in.
+Anyone who is currently enrolled in a Udacity nanodegree. Although the challenges may require skills from a particular nanodegree, there is no restriction based on which nanodegree you are enrolled in.
 
 ### How to participate
 You need to form a team, complete a sequence of tasks and then fill a form. The type and difficulty of the tasks will change from one challenge to the next. Find out more in the [List of Challenges](#List-of-Challenges) section. 
@@ -36,25 +36,27 @@ The time will vary from challenge to challenge. Please find out more in the [Lis
 
 ### Body Fat Prediction
 **About Body Fat Prediction**
-The body fat prediction challenge is a private Kaggle competition for Udacity students. 
+_How precisely can you predict the bodyweight of a person from different body measurement?_
 
-The goal of the challenge is to be able to predict the percentage of body fat, given a person's body measurements from their neck, chest, abdomen and other areas. The challenge comes from having to learn models on small data. Despite the prevalence of big data everywhere, when it comes to solving many real-world problems, there's often a shortage of data in many domains. Many problems in healthcare and medicine fall in this category since data collection in these domains requires enough participants (humans), data collection is often tedious, costly, requires formal consent and involves privacy issues. Body fat prediction is one such problem.
+The body fat prediction challenge is a private Kaggle competition for Udacity students. The goal of the challenge is to be able to predict the percentage of body fat, given a person's body measurements from their neck, chest, abdomen and other areas. The challenge comes from having to learn models on small data. Despite the prevalence of big data everywhere, when it comes to solving many real-world problems, there is often a shortage of data in many domains. Many problems in healthcare and medicine fall in this category since data collection in these domains requires enough participants (humans), data collection is often tedious, costly, requires formal consent and involves privacy issues. Body fat prediction is one such problem.
 
 Body fat prediction from simple body measurements has immediate utility, for example, in health apps, to predict fitness levels. The main challenge is to build a reliable model from the tiny data in this dataset. If we had millions of rows of data, building a highly accurate, black box model would be almost trivial. However, to get every last ounce of performance from a machine learning model trained on small data, one has to carefully analyze and tune its performance.
 
 **How to Participate**
-- Join the [Gitter room](https://gitter.im/Udacity-Aleph/bodyfat#) for this challenge.
+1. Join the [Gitter room](https://gitter.im/Udacity-Aleph/bodyfat#) for this challenge.
 - Create an account on Kaggle, if you already do not have one.
 - Join [this](https://www.kaggle.com/t/4bd762ba517a4d8ca9c71d6ec0bf19cd) challenge on Kaggle. Please do not share the link outside Udacity community because it is a private competition.
 - Add your details to [this](https://docs.google.com/spreadsheets/d/1nm4srsFa1xHal8u4yOAlFk-VKU4I6LC8HZ9jZ_hckMc/edit?usp=sharing) Google sheet. 
   - You can either add your name to an exsisting team or create a new team. 
   - If you enter as the first team member, you are the team's leader.
   - A team must have at least two members and at most four (the leader can edit the maximum number of members).
-  - If you are not the leader
+  - If you are not the leader:
     - Only add yourself to a team if the team's member count is below the limit set by team leader.
+  - If you are the leader:
     - Select the number of members you want to allow in the team (this can be changed later).
-    - Pick a team name and add it to the Google sheet
+    - Pick a team name and add it to the Google sheet, then on the competition page on Kaggle give your team the same name.
+    - Once your team reaches its member limit, send a direct message to [us](https://gitter.im/fa-ahmad) on Gitter with your  team's name. We will create a dedicated group for you and your team.
+    - [form a Kaggle team](https://www.kaggle.com/getting-started/44861) and make sure to add all team members to it.
   
-
-4. If you are a team leader, [form a Kaggle team](https://www.kaggle.com/getting-started/44861) and make sure to add all team members to it.
-5. Make submissions to Kaggle as a team
+- Make submissions to Kaggle as a team until the submission deadline ends.
+- Submit your code and to Github along with a writeup / README documenting your approach to the Kaggle competition.
