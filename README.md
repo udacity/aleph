@@ -34,3 +34,16 @@ The time will vary from challenge to challenge. Please find out more in the [Lis
 
 ## List of Challenges
 
+1. ### Body Fat Prediction
+**About Body Fat Prediction**
+The body fat prediction challenge is a private Kaggle competition for Udacity students. 
+
+The goal of the challenge is to be able to predict the percentage of body fat, given a person's body measurements from their neck, chest, abdomen and other areas. The challenge comes from having to learn models on small data. Despite the prevalence of big data everywhere, when it comes to solving many real-world problems, there's often a shortage of data in many domains. Many problems in healthcare and medicine fall in this category since data collection in these domains requires enough participants (humans), data collection is often tedious, costly, requires formal consent and involves privacy issues. Body fat prediction is one such problem.
+
+Body fat prediction from simple body measurements has immediate utility, for example, in health apps, to predict fitness levels. The main challenge is to build a reliable model from the tiny data in this dataset. If we had millions of rows of data, building a highly accurate, black box model would be almost trivial. However, to get every last ounce of performance from a machine learning model trained on small data, one has to carefully analyze and tune its performance.
+
+**How to Participate**
+1. Add your email to [this](https://docs.google.com/spreadsheets/d/1nm4srsFa1xHal8u4yOAlFk-VKU4I6LC8HZ9jZ_hckMc/edit?usp=sharing) Google sheet. You can either add your name to an exsisting team or create a new team. A team must have at least two members and at most four.
+2. Create an account on Kaggle
+3. Join [this](https://www.kaggle.com/t/4bd762ba517a4d8ca9c71d6ec0bf19cd) challenge on Kaggle. Please do not share the link outside Udacity community because it is a private competition.
+4. Create a team 
