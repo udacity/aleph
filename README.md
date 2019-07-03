@@ -34,8 +34,8 @@ The time will vary from challenge to challenge. Please find out more in the [Lis
 
 ## List of Challenges
 
-### Body Fat Prediction
-**About Body Fat Prediction**
+### Body Fat Prediction [THIS CHALLENGE IS CLOSED NOW]
+**About Body Fat Prediction** 
 _How precisely can you predict the bodyweight of a person from different body measurement?_
 
 The body fat prediction challenge is a private Kaggle competition for Udacity students. The goal of the challenge is to be able to predict the percentage of body fat, given a person's body measurements from their neck, chest, abdomen and other areas. The challenge comes from having to learn models on small data. Despite the prevalence of big data everywhere, when it comes to solving many real-world problems, there is often a shortage of data in many domains. Many problems in healthcare and medicine fall in this category since data collection in these domains requires enough participants (humans), data collection is often tedious, costly, requires formal consent and involves privacy issues. Body fat prediction is one such problem.
